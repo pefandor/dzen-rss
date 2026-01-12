@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Товары с Яндекс Маркета</title>
+    <link>https://market.yandex.ru</link>
+    <language>ru</language>
+    <description>Лучшие товары с Яндекс Маркета</description>
+    <lastBuildDate>Mon, 12 Jan 2026 11:44:31 +0300</lastBuildDate>
+
+    <item>
+        <title>Тестовый товар для Дзен</title>
+        <link>https://market.yandex.ru/test</link>
+        <guid>post-8f3ccb9bf4bd8eafd2a3</guid>
+        <pubDate>Mon, 12 Jan 2026 11:44:31 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Это тестовый пост для проверки RSS.</p><p>Текст с ERID маркировкой.</p><p>Реклама. erid: TEST123</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Тестовый товар</title>
+        <link>https://market.yandex.ru/test</link>
+        <guid>post-fe53239260d02839540d</guid>
+        <pubDate>Mon, 12 Jan 2026 11:21:48 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Тестовый текст с ERID.</p><p>Реклама. erid: test123</p>]]></content:encoded>
+    </item>
+
+</channel>
+</rss>
